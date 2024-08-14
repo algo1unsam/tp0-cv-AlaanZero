@@ -1,5 +1,5 @@
 # TP0-CV
-![Imagen meme](https://drive.google.com/file/d/19qGg-FhkJiJtPdPqPbAg5r7zlioYqdtN/view?usp=drive_link)
+![Superman meme](https://drive.google.com/uc?export=view&id=19qGg-FhkJiJtPdPqPbAg5r7zlioYqdtN)
 
 # HOLA SOY GOMEZ ALAN
 
