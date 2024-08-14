@@ -1,10 +1,17 @@
 # TP0-CV
-![Imagen meme](https://drive.google.com/uc?export=view&id=19qGg-FhkJiJtPdPqPbAg5r7zlioYqdtN)
+![Imagen meme](https://drive.google.com/file/d/19qGg-FhkJiJtPdPqPbAg5r7zlioYqdtN/view?usp=drive_link)
 
-Actualmente estoy cursando en la Universidad de San Martin , tengo 2.30 hs de viaje y poco tiempo pa estudiar.
-Me gustaria trabajar de esto , pero si no es posible chambeo de cualquier cosa.
-Juego favorito:
+# HOLA SOY GOMEZ ALAN
 
-LoL  (ayuda no puedo dejar de jugarlo)
+**Actualmente estoy cursando en la Universidad de San Martin**  
+*Tengo 2.30 hs de viaje y poco tiempo para estudiar.*
 
-DarkSouls (no lo termine)
+Me gustaría trabajar de lo que estoy estudiando, ¡obviamente!
+
+## Juego favorito:
+
+***League of Legends (LoL)***  
+*Ayuda, no puedo dejar de jugarlo*
+
+***Dark Souls***  
+*No lo terminé*
