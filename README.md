@@ -1,4 +1,3 @@
 # TP0-CV
-Me perdi asi q anoto pasos a seguir : voy a code local y copio el https , lo copio y en escritorio abro la terminal poniendo git clone y ese link. Hasta aca llegue xd
-explicacion perfecta miloco
-
+![](https://drive.google.com/file/d/19qGg-FhkJiJtPdPqPbAg5r7zlioYqdtN/view?usp=drive_link)
+Actualmente estoy cursando en la Universidad de San Martin , tengo 2.30 hs de viaje asi q espero no trabajar cerca de aca xd
